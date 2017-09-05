@@ -5,3 +5,6 @@
 
 ## Usage Documents
 ### https://bc15c6b0d604.gitbooks.io/record-project-api-documentation/content/
+
+## 시연 영상
+### https://youtu.be/A0ARKpXVC1A
